@@ -780,3 +780,4 @@ jQuery(function($) {
 	});
 });
 
+$('#modalPopup').modal('show');
